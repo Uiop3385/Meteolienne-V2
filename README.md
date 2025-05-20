@@ -88,7 +88,7 @@ Render of the turbine from Fusion:
 
 And a bunch of jumper wires.
 
-Image of the inside:![Inner wiring](https://raw.githubusercontent.com/Uiop3385/Meteolienne-V2/refs/heads/main/pictures/inside.png?token=GHSAT0AAAAAADA63GRDP5PRLAUD36IOTHKY2BMU63A)
+Image of the inside:![Inner wiring](https://github.com/Uiop3385/Meteolienne-V2/blob/2a13d240635c14f368a44f7f5a6f722d9530c754/pictures/inside.png)
 
 ## Oversights
 While the project seems finished, there's still many things that are wrong with it. Here's a quick list of them:
