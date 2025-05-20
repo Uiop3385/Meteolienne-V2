@@ -1,0 +1,15 @@
+String macToString(byte mac[]);
+String echoCommand(const String args[], size_t argCount);
+String infoCommand(const String args[], size_t argCount);
+String locate(const String args[], size_t argCount);
+String positionCalibrateCommand(const String args[], size_t argCount);
+String stepCalibrateCommand(const String args[], size_t argCount);
+String resetCommand(const String args[], size_t argCount);
+String sleepNowCommand(const String args[], size_t argCount);
+String wifiLpmConfigurationCommand(const String args[], size_t argCount);
+String wifiScanNetworksCommand(const String args[], size_t argCount);
+String wifiPingCommand(const String args[], size_t argCount);
+String wifiGetDebugInfoCommand(const String args[], size_t argCount);
+String wifiGetReasonCodeCommand(const String args[], size_t argCount);
+String demoSpinCommand(const String args[], size_t argCount);
+String demoLedBuiltinCommand(const String args[], size_t argCount);
