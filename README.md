@@ -6,8 +6,8 @@ A project aiming to create an extra-efficient wind turbine, that's able to spin 
 It's also capable of generating up to 10W of power, and is entirely self-sufficient, thanks to an on-board battery and solar panel, and a sleeping system to save power.
 
 Here are some pictures:  
-![View from the bottom](https://raw.githubusercontent.com/Uiop3385/Meteolienne-V2/refs/heads/main/pictures/outside_low.jpg?token=GHSAT0AAAAAADA63GRD53UOMLSUU3NSWPQU2BMTABA)
-![View from the top](https://raw.githubusercontent.com/Uiop3385/Meteolienne-V2/refs/heads/main/pictures/outside_high.jpg?token=GHSAT0AAAAAADA63GRCEG64677ML7GB2TUK2BMTA7A)
+![View from the bottom](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/outside_low.jpg)
+![View from the top](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/outside_high.jpg)
 
 ## Disclaimer
 If you're going to use any part of this project, please make sure you follow the terms of the licence. You can see a breakdown of them [here](https://choosealicense.com/licenses/mpl-2.0/).
@@ -46,7 +46,7 @@ The entire wind turbine was modelled using Autodesk Fusion. You can access the .
 Alternatively, all parts of the wind turbine are available as .stl in /models/parts.
 
 Render of the turbine from Fusion:
-![Realistic render of the wind turbine](https://raw.githubusercontent.com/Uiop3385/Meteolienne-V2/refs/heads/main/pictures/render.png?token=GHSAT0AAAAAADA63GRDZJ2LA24VYJXGKHT22BMVRKA)
+![Realistic render of the wind turbine](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/render.png)
 
 ## Components used
 ### Sensors
