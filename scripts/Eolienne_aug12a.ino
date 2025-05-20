@@ -35,14 +35,14 @@
 #include "thingProperties.h"
 
 #include <ArduinoLowPower.h>
-#include "Battery.h"
-#include "CommandHandler.h"
-#include "LED.h"
+#include "Battery/Battery.h"
+#include "CommandLine/CommandHandler/CommandHandler.h"
+#include "LED/LED.h"
 #include <neotimer.h>
-#include "Rotation.h"
-#include "Sensors.h"
+#include "Rotation/Rotation.h"
+#include "Sensors/Sensors.h"
 
-#include "Commands.h"
+#include "CommandLine/Commands/Commands.h"
 
 CommandHandler commandHandler(10, 5);
 
