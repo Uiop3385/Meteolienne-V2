@@ -24,7 +24,7 @@ This project is the successor to the [original Météolienne](https://github.com
 
 The wireless connection is operated through Arduino IoT Cloud, using an Arduino MKR WiFi 1010 board. You'll need an account and a Maker subscription to make it work.
 
-**Some parts of this project, including variables in the code, part names in the CAD representation, etc, are written in French.**
+Some parts of this project, including variables in the code, part names in the CAD representation, etc, **are written in French**.
 
 ## Scripts
 The files included in /scripts are not ready for use on the IoT Cloud editor. If you want to implement the code, dashboard, things and cloud variables, it's essential to use the template. If you're simply taking certain parts of the scripts, ignore this.
@@ -47,6 +47,8 @@ Alternatively, all parts of the wind turbine are available as .stl in /models/pa
 
 Render of the turbine from Fusion:
 ![Realistic render of the wind turbine](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/render.png)
+
+The models were designed to be 3D printed. The ideal materials would be PETG and ASA, since they're strong, water resistant, and UV resistant. My prototype was made using PETG, with white filament for all parts but the mast cover and the IO shield. Those were printed in translucent filament.
 
 ## Components used
 ### Sensors
