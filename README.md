@@ -1,4 +1,3 @@
-
 # Meteolienne-V2
 
 A project aiming to create an extra-efficient wind turbine, that's able to spin around to face the wind, and includes several sensors to add weather station capabilities.
@@ -7,6 +6,7 @@ It's also capable of generating up to 10W of power, and is entirely self-suffici
 
 Here are some pictures:  
 ![View from the bottom](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/outside_low.jpg)
+
 ![View from the top](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/outside_high.jpg)
 
 ## Disclaimer
@@ -25,6 +25,15 @@ This project is the successor to the [original Météolienne](https://github.com
 The wireless connection is operated through Arduino IoT Cloud, using an Arduino MKR WiFi 1010 board. You'll need an account and a Maker subscription to make it work.
 
 Some parts of this project, including variables in the code, part names in the CAD representation, etc, **are written in French**.
+
+## Dashboards
+Here are two images showcasing part of the two dashboards, the data one first, and the settings one after.
+
+![Data dashboard](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/data-dashboard.png)
+
+![Settings dashboard](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/settings-dashboard.png)
+
+These are the web dashboards. The mobile versions of them aren't shown here, but they're the same with a different layout to fit the size of a phone screen.
 
 ## Scripts
 The files included in /scripts are not ready for use on the IoT Cloud editor. If you want to implement the code, dashboard, things and cloud variables, it's essential to use the template. If you're simply taking certain parts of the scripts, ignore this.
