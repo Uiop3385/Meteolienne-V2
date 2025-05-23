@@ -29,9 +29,9 @@ Some parts of this project, including variables in the code, part names in the C
 ## Dashboards
 Here are two images showcasing part of the two dashboards, the data one first, and the settings one after.
 
-![Data dashboard](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/data-dashboard.png)
+![Data dashboard](https://github.com/Uiop3385/Meteolienne-V2/blob/5fadef00f38615ca4269ddbcf965263c67d57ed3/pictures/data-dashboard.png)
 
-![Settings dashboard](https://github.com/Uiop3385/Meteolienne-V2/blob/55d44287617ceda9696ecf1af9f7fe702a5b29cc/pictures/settings-dashboard.png)
+![Settings dashboard](https://github.com/Uiop3385/Meteolienne-V2/blob/5fadef00f38615ca4269ddbcf965263c67d57ed3/pictures/settings-dashboard.png)
 
 These are the web dashboards. The mobile versions of them aren't shown here, but they're the same with a different layout to fit the size of a phone screen.
 
